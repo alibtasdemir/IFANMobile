@@ -15,7 +15,8 @@
     "react": "18.1.0",
     "react-native": "0.70.5",
     "react-native-image-zoom-viewer": "^3.0.1",
-    "expo-image-picker": "~14.0.2"
+    "expo-image-picker": "~14.0.2",
+    "expo-updates": "~0.15.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
